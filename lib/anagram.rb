@@ -1,9 +1,9 @@
 # Your code goes here!
 class Anagram
 
-  attr_accessor :matches 
+  attr_accessor :matches
   def initialize
-    @matches = 0
+    @matches = []
   end
 
 end
