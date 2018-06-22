@@ -1,7 +1,7 @@
 # Your code goes here!
 class Anagram
 
-  attr_accessor :diaper
+  attr_accessor :matches 
   def initialize
     @matches = 0
   end
